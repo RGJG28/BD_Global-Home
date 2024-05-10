@@ -81,7 +81,7 @@ realizar el pago de la vivienda en varias mensualidades, hasta en 240 mensualida
 cada pago realizado el sistema debe almacenar la fecha de pago, el importe del pago y un
 archivo PDF que sirve como evidencia del depósito realizado.
 Para controlar la situación de cada vivienda, se ha diseñado una serie de estados:
-<span style="color:red">DISPONIBLE</span>, <span style="color:red">EN RENTA</span>, <span style="color:red">ALQUILADA</span>, <span style="color:red">EN VENTA</span>, <span style="color:red">VENDIDA</span>, <span style="color:red">INACTIVA</span>. Estos estados se almacenan
+<font color="red">DISPONIBLE</font>, <span style="color:red">EN RENTA</span>, <span style="color:red">ALQUILADA</span>, <span style="color:red">EN VENTA</span>, <span style="color:red">VENDIDA</span>, <span style="color:red">INACTIVA</span>. Estos estados se almacenan
 en un catálogo con su clave y descripción. Se requiere conocer en todo momento la
 situación de la vivienda y almacenar la historia de cambios de estado.
 Únicamente para las viviendas empleadas para vacacionar existen 2 servicios que Global
