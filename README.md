@@ -82,7 +82,8 @@ cada pago realizado el sistema debe almacenar la fecha de pago, el importe del p
 archivo PDF que sirve como evidencia del depósito realizado.
 Para controlar la situación de cada vivienda, se ha diseñado una serie de estados:
 <br>
-<font color="red">DISPONIBLE</font>, <span style="color:red">EN RENTA</span>, <span style="color:red">ALQUILADA</span>, <span style="color:red">EN VENTA</span>, <span style="color:red">VENDIDA</span>, <span style="color:red">INACTIVA</span>. 
+<p><strong>DISPONIBLE</strong></p> 
+<span style="color:red">EN RENTA</span>, <span style="color:red">ALQUILADA</span>, <span style="color:red">EN VENTA</span>, <span style="color:red">VENDIDA</span>, <span style="color:red">INACTIVA</span>. 
 </br>
 Estos estados se almacenan
 en un catálogo con su clave y descripción. Se requiere conocer en todo momento la
