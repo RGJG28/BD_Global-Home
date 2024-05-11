@@ -40,7 +40,7 @@ Para controlar la situación de cada vivienda, se ha diseñado una serie de esta
 Únicamente para las viviendas empleadas para vacacionar existen 2 servicios que Global Home ofrece. El primer servicio se trata de un sistema de notificaciones en el que el sistema enviará un mensaje SMS al usuario en cuanto una vivienda esté disponible para ser alquilada. Se deberá almacenar la lista de usuarios que están interesados en una o más viviendas, así como el número de celular al que será enviado el mensaje. 
 Una vez que el mensaje se envía, se activa una bandera de “notificación enviada”. El segundo servicio se refiere a la posibilidad de calificar a una vivienda para vacacionar. El usuario podrá asignarle una calificación (hasta 5 estrellas) y una descripción que justifique su calificación. Se requiere almacenar estos datos, así como la fecha en la que se realiza la evaluación.
 ## Solución propuesta
-### Modelo entidad-relación
-![Modelo entidad-relación](https://github.com/RGJG28/BD_Fumigadora/blob/main/src/BD_proyecto_fumigadora_MER.png)
 ### Modelo relacional
-![Modelo relacional](https://github.com/RGJG28/BD_Fumigadora/blob/main/src/Proyecto_fumigadora_ET.jpg)
+![Modelo relacional](https://github.com/RGJG28/BD_Global-Home/blob/main/src/GH_JimenezRodrigo_ParedesRosaura.png)
+### Resultados de validación
+![Resultados](https://github.com/RGJG28/BD_Global-Home/blob/main/src/GH_Validador_Final.png)
